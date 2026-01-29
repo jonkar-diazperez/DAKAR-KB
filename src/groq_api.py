@@ -1,4 +1,7 @@
 from groq import Groq
+import os
+
+
 CLAVE_API = "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"
 
 def groq_p(p):
